@@ -9,7 +9,7 @@ related-to   :
 status       : review-content
 when-day     : Thu
 organizers   : David Clarke
-participants : Ante Gulam
+participants : Ante Gulam, Christian Martorella
 ---
 
 ## Why

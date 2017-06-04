@@ -11,7 +11,7 @@ when-day     : Mon
 when-time    : PM-2
 location     : Room-1
 organizers   : David Clarke
-participants : Ante Gulam,Francois Raynaud,Bjoern Kimminich, Duncan Hurwood, Robert Morschel
+participants : Ante Gulam,Francois Raynaud,Bjoern Kimminich, Duncan Hurwood, Robert Morschel, Christian Martorella
 ---
 
 When creating horizontal security teams across multiple teams or squads, there are two models that have gained some traction: Security Guilds and Security Champions.
